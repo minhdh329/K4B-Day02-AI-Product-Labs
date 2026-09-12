@@ -65,9 +65,9 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
-Nghe phần trình bày về các thành viên, tôi thực sự ấn tượng với sự nhạy bén của mọi người. Rất nhiều bạn đã đưa ra những bài toán vô cùng thiết thực và gắn liền với nhu cầu thực tế. Đi kèm với đó là những hướng giải quyết đột phá, đầy tính sáng tạo. Điển hình như trong nhóm tôi, một bạn đã phân tích bài toán rất hay về phương pháp tổng hợp thông tin hiệu quả sau mỗi ngày học.
-Trong vai trò là trưởng nhóm, tôi đã ý thức được về trách nhiệm quản lý tiến độ chung. Tôi đã thường xuyên đôn đốc và theo sát các thành viên để đảm bảo toàn đội hoàn thành đúng thời hạn của buổi lab hôm nay. Đối với quá trình hoàn thiện sản phẩm cuối cùng, tôi cũng tích cực tham gia đóng góp ý kiến chuyên môn. Cụ thể, tôi đã đề xuất các phương án nhằm đảm bảo ghi nhận chính xác tuyệt đối những đoạn hội thoại của khách hàng.
-Nhìn lại toàn bộ quá trình làm việc, tôi nhận thấy bản thân đã rút ra được nhiều kinh nghiệm. Nếu có cơ hội thực hiện lại dự án này, tôi chắc chắn sẽ lên kế hoạch phân chia công việc một cách khoa học và hiệu quả hơn.
+Nghe phần trình bày của các thành viên, tôi thực sự ấn tượng với sự nhạy bén của các bạn trong team cũng như ở các team khác. Rất nhiều bạn đã đưa ra những bài toán vô cùng thiết thực và gắn liền với nhu cầu thực tế. Đi kèm với đó là những hướng giải quyết rất sáng tạo. Điển hình như trong nhóm của mình, một bạn đã phân tích bài toán rất thiết thực cho học viên về phương pháp tổng hợp thông tin bài giảng, bài tập sau mỗi ngày học.
+Trong vai trò là trưởng nhóm, tôi đã ý thức được về trách nhiệm quản lý tiến độ chung. Tôi đã thường xuyên nhắc nhở và kêu gọi các thành viên để đảm bảo toàn đội hoàn thành đúng thời hạn của buổi lab hôm nay. Đối với quá trình hoàn thiện sản phẩm cuối cùng, tôi cũng tích cực tham gia đóng góp ý kiến chuyên môn. Cụ thể, tôi đã đề xuất các phương án nhằm đảm bảo ghi nhận chính xác những đoạn hội thoại của khách hàng.
+Sau toàn bộ quá trình làm việc, tôi nhận thấy bản thân đã rút ra được nhiều kinh nghiệm. Nếu có cơ hội thực hiện lại dự án này, tôi chắc chắn sẽ lên kế hoạch phân chia công việc một cách khoa học và hiệu quả hơn.
 ```
 
 ---
